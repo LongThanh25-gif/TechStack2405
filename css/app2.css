@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(252, 229, 233);
+}
+h1{
+    font-family: 'Time New Roman';
+    font-size: 25px;
+    font-weight: 700;
+    text-align: justify;
+    text-transform: capitalize;
+}
+div{
+    font-family: 'Times New Roman';
+    font-size: 15px ;
+    text-align: justify;
+    width: 400px;
+    float: right;
+    padding: 10px
+}
+h2{ 
+    font-family: Times 'Times New Roman';
+    font-size: 17px;
+    font-weight: 700;
+    text-align: justify;
+    text-transform: capitalize; 
+
+}
+h3{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    font-weight: 700;
+    line-height:1;
+    text-align: justify;
+    border-bottom: 1.5px solid black;
+} 
+h4{
+    font-family: 'Times New Roman';
+    font-size:15px;
+    font-weight:700;
+    line-height:1; 
+    text-align:justify 
+}
+    ul{
+        width:600px;
+        font-family: 'Times New Roman';
+        font-size:15px;
+        font-weight:200px;
+        line-height:1; 
+        text-align:justify
+    }
+h5{
+    font-family:'Times New Roman';
+    font-size:15px;
+    font-weight:700;
+    line-height:1; 
+    text-align:justify
+}
+h6{
+    font-family:'Times New Roman';
+    font-size:15px;
+    font-weight:700;
+    line-height:1; 
+    text-align:justify;
+    border-bottom: 1.5px solid black;
+}
+h7{
+    font-family:'Times New Roman';
+    font-size:15px;
+    font-weight:700;
+    line-height:1; 
+    text-align:justify;
+    border-bottom:1.5px solid black;
+}
+h8{
+    font-family:'Times New Roman';
+    border-bottom:1.5px solid black;
+    font-size:15px;
+    font-weight:700;
+    line-height:1; 
+    text-align:justify;
+}   
+h9{
+    font-family:'Times New Roman';
+    font-size:15px;
+    font-weight:700;
+    line-height:1; 
+    text-align:justify;
+}
+h10{
+    font-family:'Times New Roman';
+    font-size:15px;
+    font-weight:700;
+    line-height:1; 
+    text-align:justify;
+    border-bottom: 1.5px solid black;
+
+}
+p{
+    font-family:'Times New Roman';
+    font-size:15px;
+    font-weight:100;
+    line-height:1; 
+    text-align:justify 
+}
+ 
