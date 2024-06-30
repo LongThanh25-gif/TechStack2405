@@ -1,0 +1,30 @@
+body{
+    margin: 10px; 
+    font-family:'Times New Roman';
+
+
+}
+img{
+    max-width: 200px; 
+    margin-left: 200px;
+    border-radius: 100px;
+
+}
+div{
+    float: right; 
+    width: 600px; 
+}
+#Indam{
+    text-align: center;
+    margin: -10px;
+    float: left;  
+    background-color: rgb(177, 172, 172);
+}
+h3{ 
+    padding: 45px;
+    font-size: 18px;
+    font-family:'Times New Roman';
+    font-weight: 100;
+    text-align: justify;
+  
+}
